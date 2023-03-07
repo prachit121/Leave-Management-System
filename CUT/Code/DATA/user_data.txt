@@ -1,0 +1,8 @@
+1,Chinar,Bandwal,29-12-2022,HmnsEw678,employee
+3,rushikesh,patil,01-03-2023,WzxmnE678,employee
+4,Prachit,bagade,12-10-1200,FghE6789,hr
+5,ruthika,puram,28-02-2023,FghE6789,hr
+2,janhavi,ilmulwar,22-02-2023,FghE6789,manager
+6,vishwajit,chawan,22-12-2022,FghE6789,employee
+7,lalit,padvi,23-02-2023,FghE6789,employee
+9,dummy,dummy,12-02-2022,Dummy@123,employee
